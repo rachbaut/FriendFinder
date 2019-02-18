@@ -1,4 +1,6 @@
 
+
+//made starter friends where the rest of the people who take the survey will have their info pushed to this array
 var friends = [
     {
         name:"Rachel",
@@ -75,7 +77,7 @@ var friends = [
             1,
             2,
             3,
-            1,
+            5,
             4,
             3
         ]
@@ -97,3 +99,4 @@ var friends = [
         ]
     }
 ];
+
